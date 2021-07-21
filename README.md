@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gugan Loganathan
 - 👀 I’m interested in Data Analytics / Data Science / Machine Learning
-- 🌱 I’m currently pursuing my Master's degree in Northeastern University, Boston, USA
+- 🌱 Completed my Master's degree (July 2021) in Analytics from  Northeastern University, Boston, USA
 - 💞️ I’m seeking full-time opportunities in Data Analytics / Data Science / Machine Learning / Business Intelligence
 - 📫 You can connect with me on: www.linkedin.com/in/guganl
 
